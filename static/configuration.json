@@ -1,15 +1,1 @@
-{
-    "githubUsername": "noirBRIAN",
-    "blogTitle": "noirBRIAN",
-    "blogDescribe": "欢迎来到noirBRIAN。",
-    "htmlTitle": "noirBRIAN",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#2690F9",
-    "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "https://blog.csdn.net/weixin_44834337",
-    "mini": false,
-    "webSites":[
-        {"name":"CSDN" , "url":"https://blog.csdn.net/weixin_44834337"}
-    ]
-}                                                                                           
+{"githubUsername":"noirBRIAN","blogTitle":"noirBRIAN","blogDescribe":"欢迎来到noirBRIAN。","htmlTitle":"noirBRIAN","fontColor":"#ffffff","useBackgroundImage":false,"backgroundColorLeft":"#2690F9","backgroundColorRight":"#FC2D2D","audioUrl":"https://blog.csdn.net/weixin_44834337","mini":true,"webSites":[{"name":"CSDN","url":"https://blog.csdn.net/weixin_44834337"}]}
